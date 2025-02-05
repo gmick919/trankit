@@ -60,7 +60,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     #install_requires=['adapters>=0.1.1', 'transformers', 'numpy', 'protobuf', 'requests', 'torch>=1.6.0,<=1.11.0', 'tqdm>=4.27', 'langid==1.1.6', 'filelock', 'tokenizers>=0.7.0', 'regex != 2019.12.17', 'packaging', 'sentencepiece', 'sacremoses', 'six'],
-    install_requires=['adapter-transformers==1.0.1', 'certifi==2020.12.5', 'chardet==4.0.0', 'click==7.1.2', 'filelock==3.0.12', 'idna==2.10', 'joblib==1.0.1', 'numpy==1.20.1', 'packaging==20.9', 'protobuf==3.15.5', 'pyparsing==2.4.7', 'regex==2020.11.13', 'requests==2.25.1', 'sacremoses==0.0.43', 'sentencepiece==0.1.91', 'six==1.15.0', 'tokenizers==0.9.3', 'torch==1.8.0', 'tqdm==4.58.0', 'typing-extensions==3.7.4.3', 'urllib3==1.26.3', 'packaging==20.9', 'protobuf==3.15.5', 'pyparsing==2.4.7', 'regex==2020.11.13', 'requests==2.25.1', 'sacremoses==0.0.43', 'sentencepiece==0.1.91', 'six==1.15.0', 'tokenizers==0.9.3', 'torch==1.8.0', 'tqdm==4.58.0', 'typing-extensions==3.7.4.3', 'urllib3==1.26.3'],
+    install_requires=['adapter-transformers==1.1.1', 'certifi==2020.12.5', 'chardet==4.0.0', 'click==7.1.2', 'filelock==3.0.12', 'idna==2.10', 'joblib==1.0.1', 'numpy==1.20.1', 'packaging==20.9', 'protobuf==3.15.5', 'pyparsing==2.4.7', 'regex==2020.11.13', 'requests==2.25.1', 'sacremoses==0.0.43', 'sentencepiece==0.1.91', 'six==1.15.0', 'tokenizers==0.7.0', 'torch==1.8.0', 'tqdm==4.58.0', 'typing-extensions==3.7.4.3', 'urllib3==1.26.3'],
     entry_points={
     },
 )
